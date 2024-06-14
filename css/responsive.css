@@ -296,6 +296,13 @@
     .c-list-item h1 {
         font-size: 45px;
     }
+
+    .get-btn {
+        padding: 12px 0px;
+        width: 180px;
+        font-size: 12px !important;
+        font-weight: 400 !important;
+    }
 }
 
 
